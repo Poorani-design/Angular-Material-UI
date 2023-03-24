@@ -1,0 +1,38 @@
+Angular Material is a UI component library.
+Provides us with component to build awesome user interfaces in quick time.
+Implementation of Google's material design specification
+
+for example 
+React   --> Material UI
+Angular --> Angular Material
+Vue     --> Vuetify
+
+
+Prerequisites:
+HTML,
+CSS,
+JAVASCRIPT,
+BASIC KNOWLEDGE OF ANGULAR
+
+CONTENT STRUCTURE
+ADD ANGULAR MATERIAL TO AN APPLICATION
+TYPOGRAPHY
+COMPONENTS:
+	--BUTTONS
+	--INDICATORS
+	--NAVIGATION
+	--LAYOUT
+	--FORM CONTROLS
+	--POPUPS
+	--MODALS
+	--DATA TABLES
+
+
+URL LINK FOR ANGUALR MATERIAL
+https://material.angular.io/
+
+IMPORT ANGULAR MATERIAL UI 
+ng add @angular/material
+
+
+
